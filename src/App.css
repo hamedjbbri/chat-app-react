@@ -290,7 +290,8 @@
   }
   
   .error {
-    color: white;
+    color: rgb(255, 255, 255); 
     text-align: center;
     margin-top: 20px;
+    padding: 10px;
   }
